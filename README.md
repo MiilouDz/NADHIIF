@@ -52,4 +52,4 @@ pic_purify_api_key: Your pic purify api key. Get from https://www.picpurify.com/
   - Open the heroku logs
 
 
-  ## Developed By Miloud Mokkedem :orange_heart: 
+  ##  :orange_heart: 
