@@ -51,5 +51,5 @@ pic_purify_api_key: Your pic purify api key. Get from https://www.picpurify.com/
   - Come to resources tab and enable python main.py
   - Open the heroku logs
 
-
-  # Developed By Miloud Mokkedem - 2022
+@miiloudz
+  ## Developed By Miloud Mokkedem :orange_heart: @
