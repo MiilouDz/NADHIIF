@@ -50,6 +50,7 @@ pic_purify_api_key: Your pic purify api key. Get from https://www.picpurify.com/
   - Then deploy
   - Come to resources tab and enable python main.py
   - Open the heroku logs
+  - Congrats
 
 
-  ##  :orange_heart: 
+##  :orange_heart: 
